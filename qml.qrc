@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>imagenes/ambulance.jpg</file>
+        <file>imagenes/botiquin.jpg</file>
+        <file>imagenes/doctors.jpg</file>
+        <file>imagenes/flu.jpg</file>
+        <file>imagenes/headache.png</file>
+        <file>imagenes/hospital.jpg</file>
+        <file>imagenes/injection.jpg</file>
+        <file>imagenes/pills.jpg</file>
+        <file>imagenes/stomachache.jpg</file>
+        <file>imagenes/surgery.jpg</file>
+        <file>imagenes/pregunta.png</file>
+        <file>imagenes/tree_bark.png</file>
+        <file>Imagen.qml</file>
+        <file>Card.qml</file>
+        <file>logica.js</file>
+        <file>datos.js</file>
+    </qresource>
+</RCC>
